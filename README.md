@@ -4,8 +4,7 @@ Works with any digits from 0-9 and the operators + , - , and x .
 
 Input / Output Screenrecording gif - 
 
-https://github.com/matheuscr30/Handwritten-Equation-Recognition---CNN/raw/master/demo.gif
-
+![alt text](https://github.com/ria-2511/Equation-Recogniser-flask/blob/main/demo.gif)
 
 Technologies Used - 
 1. Tensorflow
